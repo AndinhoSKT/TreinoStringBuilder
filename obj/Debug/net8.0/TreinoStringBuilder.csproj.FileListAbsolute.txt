@@ -1,0 +1,14 @@
+C:\cursocsharp\TreinoStringBuilder\bin\Debug\net8.0\TreinoStringBuilder.exe
+C:\cursocsharp\TreinoStringBuilder\bin\Debug\net8.0\TreinoStringBuilder.deps.json
+C:\cursocsharp\TreinoStringBuilder\bin\Debug\net8.0\TreinoStringBuilder.runtimeconfig.json
+C:\cursocsharp\TreinoStringBuilder\bin\Debug\net8.0\TreinoStringBuilder.dll
+C:\cursocsharp\TreinoStringBuilder\bin\Debug\net8.0\TreinoStringBuilder.pdb
+C:\cursocsharp\TreinoStringBuilder\obj\Debug\net8.0\TreinoStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursocsharp\TreinoStringBuilder\obj\Debug\net8.0\TreinoStringBuilder.AssemblyInfoInputs.cache
+C:\cursocsharp\TreinoStringBuilder\obj\Debug\net8.0\TreinoStringBuilder.AssemblyInfo.cs
+C:\cursocsharp\TreinoStringBuilder\obj\Debug\net8.0\TreinoStringBuilder.csproj.CoreCompileInputs.cache
+C:\cursocsharp\TreinoStringBuilder\obj\Debug\net8.0\TreinoStringBuilder.dll
+C:\cursocsharp\TreinoStringBuilder\obj\Debug\net8.0\refint\TreinoStringBuilder.dll
+C:\cursocsharp\TreinoStringBuilder\obj\Debug\net8.0\TreinoStringBuilder.pdb
+C:\cursocsharp\TreinoStringBuilder\obj\Debug\net8.0\TreinoStringBuilder.genruntimeconfig.cache
+C:\cursocsharp\TreinoStringBuilder\obj\Debug\net8.0\ref\TreinoStringBuilder.dll
